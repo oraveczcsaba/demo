@@ -1,0 +1,32 @@
+#============================================================= -*-python-*-
+#
+# Pattern filter file for keyword extracion
+#
+# DESCRIPTION
+#
+#   This file contains the list of patterns for extracting keywords
+#   from nlp analyzed descrption text fields.
+#
+#   If a KW candidate matches any of the patterns in this file it will
+#   be removed from candidate list. Multiword KWs when checked 
+#   contain tokens space separated so adjust your pattern accordingly 
+#   to match more than one token.
+#
+#   NOTE: pattern is checked against repr() of string so include leading
+#   (and trailing) "'" if you want a match from beginning or/to end 
+#   of string!!!
+#   
+#   Empty lines and lines beginning with '#' are discarded/comments.
+#
+#   This file is read by make_stoplist.py.
+#=============================================================
+http://
+dorfstrukt.*
+# delete bullets and ther unicode symbol like stuff
+^'(\\x..)+'$
+# do not preserve tokens without alphabetic character
+^'[\W\d]+'$
+# space must be at the end of the following!!!:
+^'cent 
+^'cents 
+^'m\d 

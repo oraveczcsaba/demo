@@ -1,0 +1,86 @@
+#============================================================= -*-python-*-
+#
+# Stoplist file for keyword extracion
+#
+# DESCRIPTION
+#
+#   This is the word list for extracting keywords
+#   from nlp analyzed descrption text fields.
+#
+#   Tokens in this list are not allowed as individual keywords and filtered
+#   out from final KW list. 
+#   
+#   Empty lines and lines beginning with '#' are discarded/comments.
+#
+#   To cater for lemma or wordform runs best to include all possible forms
+#   (eg. singular, plural, 3rd person etc.) of words.
+#
+#   This file is read by make_stoplist.py.
+#=============================================================
+building
+set
+sets
+type
+easy
+cents
+cent
+architect
+project
+located
+site
+inc.
+Inc.
+part
+time
+years
+main
+sides
+parts
+high
+number
+size
+simple
+group
+m2
+page
+York
+feet
+length
+total
+rest
+.84
+%
+means
+important
+width
+co.
+Co.
+kind
+fact
+details
+places
+aim
+a.
+similar
+back
+goal
+ways
+present
+types
+kw
+designs
+half
+link
+full
+smaller
+long
+visit
+email
+form
+point
+top
+located
+zero
+side
+unit
+day

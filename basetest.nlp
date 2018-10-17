@@ -1,0 +1,2389 @@
+[
+    {
+        "raw_data": {
+            "Realisation": [
+                "2005-2006"
+            ], 
+            "project_title": "Entrance area Freie Universit\u00e4t Berlin", 
+            "project_link": "http://www.world-architects.com/en/projects/23442_Entrance_area_Freie_Universitaet_Berlin", 
+            "Client": [
+                "Freie Universit\u00e4t Berlin", 
+                "Referat Bauplanung III B2"
+            ], 
+            "Location": [
+                "Berlin", 
+                "Germany"
+            ], 
+            "image_links": [], 
+            "description_text": "Compatibility of systems of linear constraints over the set of natural numbers. Criteria of compatibility of a system of linear Diophantine equations, strict inequations, and nonstrict inequations are considered. Upper bounds for components of a minimal set of solutions and algorithms of construction of minimal generating sets of solutions for all types of systems are given. These criteria and the corresponding algorithms for constructing a minimal supporting set of solutions can be used in solving all the considered types of systems and systems of mixed types.\n", 
+            "Landscape Architect": [
+                "H\u00e4fner / Jimenez"
+            ], 
+            "Costs": [
+                "453.000 \u20ac"
+            ], 
+            "Size": [
+                "6.230 qm"
+            ]
+        }, 
+        "description_text_nlp": {
+            "sentences": [
+                {
+                    "parse": "(ROOT (NP (NP (NN Compatibility)) (PP (IN of) (NP (NP (NNS systems)) (PP (IN of) (NP (JJ linear) (NNS constraints))))) (PP (IN over) (NP (NP (DT the) (NN set)) (PP (IN of) (NP (JJ natural) (NNS numbers))))) (. .))) ", 
+                    "basic-dependencies": [
+                        {
+                            "dependent": 1, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "case", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "nmod", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "case", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "amod", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "nmod", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "case", 
+                            "governor": 9
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "det", 
+                            "governor": 9
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "nmod", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "case", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "amod", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "nmod", 
+                            "governor": 9
+                        }
+                    ], 
+                    "named-entities": [], 
+                    "tokens": [
+                        {
+                            "word": "Compatibility", 
+                            "CharacterOffsetEnd": 13, 
+                            "POS": "NN", 
+                            "lemma": "compatibility", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 0, 
+                            "NER": "O", 
+                            "id": 1
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 16, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 14, 
+                            "NER": "O", 
+                            "id": 2
+                        }, 
+                        {
+                            "word": "systems", 
+                            "CharacterOffsetEnd": 24, 
+                            "POS": "NNS", 
+                            "lemma": "system", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 17, 
+                            "NER": "O", 
+                            "id": 3
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 27, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 25, 
+                            "NER": "O", 
+                            "id": 4
+                        }, 
+                        {
+                            "word": "linear", 
+                            "CharacterOffsetEnd": 34, 
+                            "POS": "JJ", 
+                            "lemma": "linear", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 28, 
+                            "NER": "O", 
+                            "id": 5
+                        }, 
+                        {
+                            "word": "constraints", 
+                            "CharacterOffsetEnd": 46, 
+                            "POS": "NNS", 
+                            "lemma": "constraint", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 35, 
+                            "NER": "O", 
+                            "id": 6
+                        }, 
+                        {
+                            "word": "over", 
+                            "CharacterOffsetEnd": 51, 
+                            "POS": "IN", 
+                            "lemma": "over", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 47, 
+                            "NER": "O", 
+                            "id": 7
+                        }, 
+                        {
+                            "word": "the", 
+                            "CharacterOffsetEnd": 55, 
+                            "POS": "DT", 
+                            "lemma": "the", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 52, 
+                            "NER": "O", 
+                            "id": 8
+                        }, 
+                        {
+                            "word": "set", 
+                            "CharacterOffsetEnd": 59, 
+                            "POS": "NN", 
+                            "lemma": "set", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 56, 
+                            "NER": "O", 
+                            "id": 9
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 62, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 60, 
+                            "NER": "O", 
+                            "id": 10
+                        }, 
+                        {
+                            "word": "natural", 
+                            "CharacterOffsetEnd": 70, 
+                            "POS": "JJ", 
+                            "lemma": "natural", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 63, 
+                            "NER": "O", 
+                            "id": 11
+                        }, 
+                        {
+                            "word": "numbers", 
+                            "CharacterOffsetEnd": 78, 
+                            "POS": "NNS", 
+                            "lemma": "number", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 71, 
+                            "NER": "O", 
+                            "id": 12
+                        }, 
+                        {
+                            "word": ".", 
+                            "CharacterOffsetEnd": 79, 
+                            "POS": ".", 
+                            "lemma": ".", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 78, 
+                            "NER": "O", 
+                            "id": 13
+                        }
+                    ], 
+                    "collapsed-dependencies": [
+                        {
+                            "dependent": 1, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "case", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "nmod:of", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "case", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "amod", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "nmod:of", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "case", 
+                            "governor": 9
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "det", 
+                            "governor": 9
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "nmod:over", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "case", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "amod", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "nmod:of", 
+                            "governor": 9
+                        }
+                    ], 
+                    "collapsed-ccprocessed-dependencies": [
+                        {
+                            "dependent": 1, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "case", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "nmod:of", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "case", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "amod", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "nmod:of", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "case", 
+                            "governor": 9
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "det", 
+                            "governor": 9
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "nmod:over", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "case", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "amod", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "nmod:of", 
+                            "governor": 9
+                        }
+                    ], 
+                    "id": 1
+                }, 
+                {
+                    "parse": "(ROOT (S (NP (NP (NNS Criteria)) (PP (IN of) (NP (NP (NN compatibility)) (PP (IN of) (NP (NP (DT a) (NN system)) (PP (IN of) (NP (NP (JJ linear) (NN Diophantine) (NNS equations)) (, ,) (NP (JJ strict) (NNS inequations)) (, ,) (CC and) (NP (JJ nonstrict) (NNS inequations))))))))) (VP (VBP are) (VP (VBN considered))) (. .))) ", 
+                    "basic-dependencies": [
+                        {
+                            "dependent": 19, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "nsubjpass", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "case", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "nmod", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "case", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "det", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "nmod", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "case", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "amod", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "compound", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "nmod", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "amod", 
+                            "governor": 13
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "conj", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "cc", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "amod", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 17, 
+                            "type": "conj", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "auxpass", 
+                            "governor": 19
+                        }
+                    ], 
+                    "named-entities": [
+                        {
+                            "lastId": 9, 
+                            "headId": 9, 
+                            "tag": "MISC", 
+                            "firstId": 9
+                        }
+                    ], 
+                    "tokens": [
+                        {
+                            "word": "Criteria", 
+                            "CharacterOffsetEnd": 88, 
+                            "POS": "NNS", 
+                            "lemma": "criterion", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 80, 
+                            "NER": "O", 
+                            "id": 1
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 91, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 89, 
+                            "NER": "O", 
+                            "id": 2
+                        }, 
+                        {
+                            "word": "compatibility", 
+                            "CharacterOffsetEnd": 105, 
+                            "POS": "NN", 
+                            "lemma": "compatibility", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 92, 
+                            "NER": "O", 
+                            "id": 3
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 108, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 106, 
+                            "NER": "O", 
+                            "id": 4
+                        }, 
+                        {
+                            "word": "a", 
+                            "CharacterOffsetEnd": 110, 
+                            "POS": "DT", 
+                            "lemma": "a", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 109, 
+                            "NER": "O", 
+                            "id": 5
+                        }, 
+                        {
+                            "word": "system", 
+                            "CharacterOffsetEnd": 117, 
+                            "POS": "NN", 
+                            "lemma": "system", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 111, 
+                            "NER": "O", 
+                            "id": 6
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 120, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 118, 
+                            "NER": "O", 
+                            "id": 7
+                        }, 
+                        {
+                            "word": "linear", 
+                            "CharacterOffsetEnd": 127, 
+                            "POS": "JJ", 
+                            "lemma": "linear", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 121, 
+                            "NER": "O", 
+                            "id": 8
+                        }, 
+                        {
+                            "word": "Diophantine", 
+                            "CharacterOffsetEnd": 139, 
+                            "POS": "NN", 
+                            "lemma": "diophantine", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 128, 
+                            "NER": "MISC", 
+                            "id": 9
+                        }, 
+                        {
+                            "word": "equations", 
+                            "CharacterOffsetEnd": 149, 
+                            "POS": "NNS", 
+                            "lemma": "equation", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 140, 
+                            "NER": "O", 
+                            "id": 10
+                        }, 
+                        {
+                            "word": ",", 
+                            "CharacterOffsetEnd": 150, 
+                            "POS": ",", 
+                            "lemma": ",", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 149, 
+                            "NER": "O", 
+                            "id": 11
+                        }, 
+                        {
+                            "word": "strict", 
+                            "CharacterOffsetEnd": 157, 
+                            "POS": "JJ", 
+                            "lemma": "strict", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 151, 
+                            "NER": "O", 
+                            "id": 12
+                        }, 
+                        {
+                            "word": "inequations", 
+                            "CharacterOffsetEnd": 169, 
+                            "POS": "NNS", 
+                            "lemma": "inequation", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 158, 
+                            "NER": "O", 
+                            "id": 13
+                        }, 
+                        {
+                            "word": ",", 
+                            "CharacterOffsetEnd": 170, 
+                            "POS": ",", 
+                            "lemma": ",", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 169, 
+                            "NER": "O", 
+                            "id": 14
+                        }, 
+                        {
+                            "word": "and", 
+                            "CharacterOffsetEnd": 174, 
+                            "POS": "CC", 
+                            "lemma": "and", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 171, 
+                            "NER": "O", 
+                            "id": 15
+                        }, 
+                        {
+                            "word": "nonstrict", 
+                            "CharacterOffsetEnd": 184, 
+                            "POS": "JJ", 
+                            "lemma": "nonstrict", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 175, 
+                            "NER": "O", 
+                            "id": 16
+                        }, 
+                        {
+                            "word": "inequations", 
+                            "CharacterOffsetEnd": 196, 
+                            "POS": "NNS", 
+                            "lemma": "inequation", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 185, 
+                            "NER": "O", 
+                            "id": 17
+                        }, 
+                        {
+                            "word": "are", 
+                            "CharacterOffsetEnd": 200, 
+                            "POS": "VBP", 
+                            "lemma": "be", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 197, 
+                            "NER": "O", 
+                            "id": 18
+                        }, 
+                        {
+                            "word": "considered", 
+                            "CharacterOffsetEnd": 211, 
+                            "POS": "VBN", 
+                            "lemma": "consider", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 201, 
+                            "NER": "O", 
+                            "id": 19
+                        }, 
+                        {
+                            "word": ".", 
+                            "CharacterOffsetEnd": 212, 
+                            "POS": ".", 
+                            "lemma": ".", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 211, 
+                            "NER": "O", 
+                            "id": 20
+                        }
+                    ], 
+                    "collapsed-dependencies": [
+                        {
+                            "dependent": 19, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "nsubjpass", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "case", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "nmod:of", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "case", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "det", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "nmod:of", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "case", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "amod", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "compound", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "nmod:of", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "amod", 
+                            "governor": 13
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "conj:and", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "cc", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "amod", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 17, 
+                            "type": "conj:and", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "auxpass", 
+                            "governor": 19
+                        }
+                    ], 
+                    "collapsed-ccprocessed-dependencies": [
+                        {
+                            "dependent": 19, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "nsubjpass", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "case", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "nmod:of", 
+                            "governor": 1
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "case", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "det", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "nmod:of", 
+                            "governor": 3
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "case", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "amod", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "compound", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "nmod:of", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "amod", 
+                            "governor": 13
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "nmod:of", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "conj:and", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "cc", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "amod", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 17, 
+                            "type": "nmod:of", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 17, 
+                            "type": "conj:and", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "auxpass", 
+                            "governor": 19
+                        }
+                    ], 
+                    "id": 2
+                }, 
+                {
+                    "parse": "(ROOT (S (NP (NP (NNP Upper) (NNS bounds)) (PP (IN for) (NP (NP (NNS components)) (PP (IN of) (NP (NP (DT a) (JJ minimal) (NN set)) (PP (IN of) (NP (NP (NNS solutions) (CC and) (NNS algorithms)) (PP (IN of) (NP (NP (NN construction)) (PP (IN of) (NP (NP (JJ minimal) (VBG generating) (NNS sets)) (PP (IN of) (NP (NP (NNS solutions)) (PP (IN for) (NP (NP (DT all) (NNS types)) (PP (IN of) (NP (NNS systems)))))))))))))))))) (VP (VBP are) (VP (VBN given))) (. .))) ", 
+                    "basic-dependencies": [
+                        {
+                            "dependent": 27, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "compound", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "nsubjpass", 
+                            "governor": 27
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "case", 
+                            "governor": 4
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "nmod", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "case", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "det", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "amod", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "nmod", 
+                            "governor": 4
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "case", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "nmod", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "cc", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "conj", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "case", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 14, 
+                            "type": "nmod", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "case", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "amod", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 17, 
+                            "type": "amod", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "nmod", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 19, 
+                            "type": "case", 
+                            "governor": 20
+                        }, 
+                        {
+                            "dependent": 20, 
+                            "type": "nmod", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 21, 
+                            "type": "case", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 22, 
+                            "type": "det", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 23, 
+                            "type": "nmod", 
+                            "governor": 20
+                        }, 
+                        {
+                            "dependent": 24, 
+                            "type": "case", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 25, 
+                            "type": "nmod", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 26, 
+                            "type": "auxpass", 
+                            "governor": 27
+                        }
+                    ], 
+                    "named-entities": [], 
+                    "tokens": [
+                        {
+                            "word": "Upper", 
+                            "CharacterOffsetEnd": 218, 
+                            "POS": "NNP", 
+                            "lemma": "Upper", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 213, 
+                            "NER": "O", 
+                            "id": 1
+                        }, 
+                        {
+                            "word": "bounds", 
+                            "CharacterOffsetEnd": 225, 
+                            "POS": "NNS", 
+                            "lemma": "bound", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 219, 
+                            "NER": "O", 
+                            "id": 2
+                        }, 
+                        {
+                            "word": "for", 
+                            "CharacterOffsetEnd": 229, 
+                            "POS": "IN", 
+                            "lemma": "for", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 226, 
+                            "NER": "O", 
+                            "id": 3
+                        }, 
+                        {
+                            "word": "components", 
+                            "CharacterOffsetEnd": 240, 
+                            "POS": "NNS", 
+                            "lemma": "component", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 230, 
+                            "NER": "O", 
+                            "id": 4
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 243, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 241, 
+                            "NER": "O", 
+                            "id": 5
+                        }, 
+                        {
+                            "word": "a", 
+                            "CharacterOffsetEnd": 245, 
+                            "POS": "DT", 
+                            "lemma": "a", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 244, 
+                            "NER": "O", 
+                            "id": 6
+                        }, 
+                        {
+                            "word": "minimal", 
+                            "CharacterOffsetEnd": 253, 
+                            "POS": "JJ", 
+                            "lemma": "minimal", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 246, 
+                            "NER": "O", 
+                            "id": 7
+                        }, 
+                        {
+                            "word": "set", 
+                            "CharacterOffsetEnd": 257, 
+                            "POS": "NN", 
+                            "lemma": "set", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 254, 
+                            "NER": "O", 
+                            "id": 8
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 260, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 258, 
+                            "NER": "O", 
+                            "id": 9
+                        }, 
+                        {
+                            "word": "solutions", 
+                            "CharacterOffsetEnd": 270, 
+                            "POS": "NNS", 
+                            "lemma": "solution", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 261, 
+                            "NER": "O", 
+                            "id": 10
+                        }, 
+                        {
+                            "word": "and", 
+                            "CharacterOffsetEnd": 274, 
+                            "POS": "CC", 
+                            "lemma": "and", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 271, 
+                            "NER": "O", 
+                            "id": 11
+                        }, 
+                        {
+                            "word": "algorithms", 
+                            "CharacterOffsetEnd": 285, 
+                            "POS": "NNS", 
+                            "lemma": "algorithm", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 275, 
+                            "NER": "O", 
+                            "id": 12
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 288, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 286, 
+                            "NER": "O", 
+                            "id": 13
+                        }, 
+                        {
+                            "word": "construction", 
+                            "CharacterOffsetEnd": 301, 
+                            "POS": "NN", 
+                            "lemma": "construction", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 289, 
+                            "NER": "O", 
+                            "id": 14
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 304, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 302, 
+                            "NER": "O", 
+                            "id": 15
+                        }, 
+                        {
+                            "word": "minimal", 
+                            "CharacterOffsetEnd": 312, 
+                            "POS": "JJ", 
+                            "lemma": "minimal", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 305, 
+                            "NER": "O", 
+                            "id": 16
+                        }, 
+                        {
+                            "word": "generating", 
+                            "CharacterOffsetEnd": 323, 
+                            "POS": "VBG", 
+                            "lemma": "generate", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 313, 
+                            "NER": "O", 
+                            "id": 17
+                        }, 
+                        {
+                            "word": "sets", 
+                            "CharacterOffsetEnd": 328, 
+                            "POS": "NNS", 
+                            "lemma": "set", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 324, 
+                            "NER": "O", 
+                            "id": 18
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 331, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 329, 
+                            "NER": "O", 
+                            "id": 19
+                        }, 
+                        {
+                            "word": "solutions", 
+                            "CharacterOffsetEnd": 341, 
+                            "POS": "NNS", 
+                            "lemma": "solution", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 332, 
+                            "NER": "O", 
+                            "id": 20
+                        }, 
+                        {
+                            "word": "for", 
+                            "CharacterOffsetEnd": 345, 
+                            "POS": "IN", 
+                            "lemma": "for", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 342, 
+                            "NER": "O", 
+                            "id": 21
+                        }, 
+                        {
+                            "word": "all", 
+                            "CharacterOffsetEnd": 349, 
+                            "POS": "DT", 
+                            "lemma": "all", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 346, 
+                            "NER": "O", 
+                            "id": 22
+                        }, 
+                        {
+                            "word": "types", 
+                            "CharacterOffsetEnd": 355, 
+                            "POS": "NNS", 
+                            "lemma": "type", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 350, 
+                            "NER": "O", 
+                            "id": 23
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 358, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 356, 
+                            "NER": "O", 
+                            "id": 24
+                        }, 
+                        {
+                            "word": "systems", 
+                            "CharacterOffsetEnd": 366, 
+                            "POS": "NNS", 
+                            "lemma": "system", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 359, 
+                            "NER": "O", 
+                            "id": 25
+                        }, 
+                        {
+                            "word": "are", 
+                            "CharacterOffsetEnd": 370, 
+                            "POS": "VBP", 
+                            "lemma": "be", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 367, 
+                            "NER": "O", 
+                            "id": 26
+                        }, 
+                        {
+                            "word": "given", 
+                            "CharacterOffsetEnd": 376, 
+                            "POS": "VBN", 
+                            "lemma": "give", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 371, 
+                            "NER": "O", 
+                            "id": 27
+                        }, 
+                        {
+                            "word": ".", 
+                            "CharacterOffsetEnd": 377, 
+                            "POS": ".", 
+                            "lemma": ".", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 376, 
+                            "NER": "O", 
+                            "id": 28
+                        }
+                    ], 
+                    "collapsed-dependencies": [
+                        {
+                            "dependent": 27, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "compound", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "nsubjpass", 
+                            "governor": 27
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "case", 
+                            "governor": 4
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "nmod:for", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "case", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "det", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "amod", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "nmod:of", 
+                            "governor": 4
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "case", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "nmod:of", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "cc", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "conj:and", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "case", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 14, 
+                            "type": "nmod:of", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "case", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "amod", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 17, 
+                            "type": "amod", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "nmod:of", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 19, 
+                            "type": "case", 
+                            "governor": 20
+                        }, 
+                        {
+                            "dependent": 20, 
+                            "type": "nmod:of", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 21, 
+                            "type": "case", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 22, 
+                            "type": "det", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 23, 
+                            "type": "nmod:for", 
+                            "governor": 20
+                        }, 
+                        {
+                            "dependent": 24, 
+                            "type": "case", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 25, 
+                            "type": "nmod:of", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 26, 
+                            "type": "auxpass", 
+                            "governor": 27
+                        }
+                    ], 
+                    "collapsed-ccprocessed-dependencies": [
+                        {
+                            "dependent": 27, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "compound", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "nsubjpass", 
+                            "governor": 27
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "case", 
+                            "governor": 4
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "nmod:for", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "case", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "det", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "amod", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "nmod:of", 
+                            "governor": 4
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "case", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "nmod:of", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "cc", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "nmod:of", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "conj:and", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "case", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 14, 
+                            "type": "nmod:of", 
+                            "governor": 10
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "case", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "amod", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 17, 
+                            "type": "amod", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "nmod:of", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 19, 
+                            "type": "case", 
+                            "governor": 20
+                        }, 
+                        {
+                            "dependent": 20, 
+                            "type": "nmod:of", 
+                            "governor": 18
+                        }, 
+                        {
+                            "dependent": 21, 
+                            "type": "case", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 22, 
+                            "type": "det", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 23, 
+                            "type": "nmod:for", 
+                            "governor": 20
+                        }, 
+                        {
+                            "dependent": 24, 
+                            "type": "case", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 25, 
+                            "type": "nmod:of", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 26, 
+                            "type": "auxpass", 
+                            "governor": 27
+                        }
+                    ], 
+                    "id": 3
+                }, 
+                {
+                    "parse": "(ROOT (S (NP (NP (DT These) (NNS criteria)) (CC and) (NP (NP (DT the) (JJ corresponding) (NNS algorithms)) (PP (IN for) (S (VP (VBG constructing) (NP (NP (DT a) (JJ minimal) (NN supporting) (NN set)) (PP (IN of) (NP (NNS solutions))))))))) (VP (MD can) (VP (VB be) (VP (VBN used) (PP (IN in) (S (VP (VBG solving) (NP (NP (PDT all) (DT the)) (VP (VBN considered) (NP (NP (NNS types)) (PP (IN of) (NP (NP (NNS systems) (CC and) (NNS systems)) (PP (IN of) (NP (JJ mixed) (NNS types)))))))))))))) (. .))) ", 
+                    "basic-dependencies": [
+                        {
+                            "dependent": 17, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "det", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "nsubjpass", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "cc", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "det", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "amod", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "conj", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "mark", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "acl", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "det", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "amod", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "compound", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "dobj", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "case", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 14, 
+                            "type": "nmod", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "aux", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "auxpass", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "mark", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 19, 
+                            "type": "advcl", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 20, 
+                            "type": "det:predet", 
+                            "governor": 21
+                        }, 
+                        {
+                            "dependent": 21, 
+                            "type": "dobj", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 22, 
+                            "type": "acl", 
+                            "governor": 21
+                        }, 
+                        {
+                            "dependent": 23, 
+                            "type": "dobj", 
+                            "governor": 22
+                        }, 
+                        {
+                            "dependent": 24, 
+                            "type": "case", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 25, 
+                            "type": "nmod", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 26, 
+                            "type": "cc", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 27, 
+                            "type": "conj", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 28, 
+                            "type": "case", 
+                            "governor": 30
+                        }, 
+                        {
+                            "dependent": 29, 
+                            "type": "amod", 
+                            "governor": 30
+                        }, 
+                        {
+                            "dependent": 30, 
+                            "type": "nmod", 
+                            "governor": 25
+                        }
+                    ], 
+                    "named-entities": [], 
+                    "tokens": [
+                        {
+                            "word": "These", 
+                            "CharacterOffsetEnd": 383, 
+                            "POS": "DT", 
+                            "lemma": "these", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 378, 
+                            "NER": "O", 
+                            "id": 1
+                        }, 
+                        {
+                            "word": "criteria", 
+                            "CharacterOffsetEnd": 392, 
+                            "POS": "NNS", 
+                            "lemma": "criterion", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 384, 
+                            "NER": "O", 
+                            "id": 2
+                        }, 
+                        {
+                            "word": "and", 
+                            "CharacterOffsetEnd": 396, 
+                            "POS": "CC", 
+                            "lemma": "and", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 393, 
+                            "NER": "O", 
+                            "id": 3
+                        }, 
+                        {
+                            "word": "the", 
+                            "CharacterOffsetEnd": 400, 
+                            "POS": "DT", 
+                            "lemma": "the", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 397, 
+                            "NER": "O", 
+                            "id": 4
+                        }, 
+                        {
+                            "word": "corresponding", 
+                            "CharacterOffsetEnd": 414, 
+                            "POS": "JJ", 
+                            "lemma": "corresponding", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 401, 
+                            "NER": "O", 
+                            "id": 5
+                        }, 
+                        {
+                            "word": "algorithms", 
+                            "CharacterOffsetEnd": 425, 
+                            "POS": "NNS", 
+                            "lemma": "algorithm", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 415, 
+                            "NER": "O", 
+                            "id": 6
+                        }, 
+                        {
+                            "word": "for", 
+                            "CharacterOffsetEnd": 429, 
+                            "POS": "IN", 
+                            "lemma": "for", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 426, 
+                            "NER": "O", 
+                            "id": 7
+                        }, 
+                        {
+                            "word": "constructing", 
+                            "CharacterOffsetEnd": 442, 
+                            "POS": "VBG", 
+                            "lemma": "construct", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 430, 
+                            "NER": "O", 
+                            "id": 8
+                        }, 
+                        {
+                            "word": "a", 
+                            "CharacterOffsetEnd": 444, 
+                            "POS": "DT", 
+                            "lemma": "a", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 443, 
+                            "NER": "O", 
+                            "id": 9
+                        }, 
+                        {
+                            "word": "minimal", 
+                            "CharacterOffsetEnd": 452, 
+                            "POS": "JJ", 
+                            "lemma": "minimal", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 445, 
+                            "NER": "O", 
+                            "id": 10
+                        }, 
+                        {
+                            "word": "supporting", 
+                            "CharacterOffsetEnd": 463, 
+                            "POS": "NN", 
+                            "lemma": "supporting", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 453, 
+                            "NER": "O", 
+                            "id": 11
+                        }, 
+                        {
+                            "word": "set", 
+                            "CharacterOffsetEnd": 467, 
+                            "POS": "NN", 
+                            "lemma": "set", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 464, 
+                            "NER": "O", 
+                            "id": 12
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 470, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 468, 
+                            "NER": "O", 
+                            "id": 13
+                        }, 
+                        {
+                            "word": "solutions", 
+                            "CharacterOffsetEnd": 480, 
+                            "POS": "NNS", 
+                            "lemma": "solution", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 471, 
+                            "NER": "O", 
+                            "id": 14
+                        }, 
+                        {
+                            "word": "can", 
+                            "CharacterOffsetEnd": 484, 
+                            "POS": "MD", 
+                            "lemma": "can", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 481, 
+                            "NER": "O", 
+                            "id": 15
+                        }, 
+                        {
+                            "word": "be", 
+                            "CharacterOffsetEnd": 487, 
+                            "POS": "VB", 
+                            "lemma": "be", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 485, 
+                            "NER": "O", 
+                            "id": 16
+                        }, 
+                        {
+                            "word": "used", 
+                            "CharacterOffsetEnd": 492, 
+                            "POS": "VBN", 
+                            "lemma": "use", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 488, 
+                            "NER": "O", 
+                            "id": 17
+                        }, 
+                        {
+                            "word": "in", 
+                            "CharacterOffsetEnd": 495, 
+                            "POS": "IN", 
+                            "lemma": "in", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 493, 
+                            "NER": "O", 
+                            "id": 18
+                        }, 
+                        {
+                            "word": "solving", 
+                            "CharacterOffsetEnd": 503, 
+                            "POS": "VBG", 
+                            "lemma": "solve", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 496, 
+                            "NER": "O", 
+                            "id": 19
+                        }, 
+                        {
+                            "word": "all", 
+                            "CharacterOffsetEnd": 507, 
+                            "POS": "PDT", 
+                            "lemma": "all", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 504, 
+                            "NER": "O", 
+                            "id": 20
+                        }, 
+                        {
+                            "word": "the", 
+                            "CharacterOffsetEnd": 511, 
+                            "POS": "DT", 
+                            "lemma": "the", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 508, 
+                            "NER": "O", 
+                            "id": 21
+                        }, 
+                        {
+                            "word": "considered", 
+                            "CharacterOffsetEnd": 522, 
+                            "POS": "VBN", 
+                            "lemma": "consider", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 512, 
+                            "NER": "O", 
+                            "id": 22
+                        }, 
+                        {
+                            "word": "types", 
+                            "CharacterOffsetEnd": 528, 
+                            "POS": "NNS", 
+                            "lemma": "type", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 523, 
+                            "NER": "O", 
+                            "id": 23
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 531, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 529, 
+                            "NER": "O", 
+                            "id": 24
+                        }, 
+                        {
+                            "word": "systems", 
+                            "CharacterOffsetEnd": 539, 
+                            "POS": "NNS", 
+                            "lemma": "system", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 532, 
+                            "NER": "O", 
+                            "id": 25
+                        }, 
+                        {
+                            "word": "and", 
+                            "CharacterOffsetEnd": 543, 
+                            "POS": "CC", 
+                            "lemma": "and", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 540, 
+                            "NER": "O", 
+                            "id": 26
+                        }, 
+                        {
+                            "word": "systems", 
+                            "CharacterOffsetEnd": 551, 
+                            "POS": "NNS", 
+                            "lemma": "system", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 544, 
+                            "NER": "O", 
+                            "id": 27
+                        }, 
+                        {
+                            "word": "of", 
+                            "CharacterOffsetEnd": 554, 
+                            "POS": "IN", 
+                            "lemma": "of", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 552, 
+                            "NER": "O", 
+                            "id": 28
+                        }, 
+                        {
+                            "word": "mixed", 
+                            "CharacterOffsetEnd": 560, 
+                            "POS": "JJ", 
+                            "lemma": "mixed", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 555, 
+                            "NER": "O", 
+                            "id": 29
+                        }, 
+                        {
+                            "word": "types", 
+                            "CharacterOffsetEnd": 566, 
+                            "POS": "NNS", 
+                            "lemma": "type", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 561, 
+                            "NER": "O", 
+                            "id": 30
+                        }, 
+                        {
+                            "word": ".", 
+                            "CharacterOffsetEnd": 567, 
+                            "POS": ".", 
+                            "lemma": ".", 
+                            "Speaker": "PER0", 
+                            "CharacterOffsetBegin": 566, 
+                            "NER": "O", 
+                            "id": 31
+                        }
+                    ], 
+                    "collapsed-dependencies": [
+                        {
+                            "dependent": 17, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "det", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "nsubjpass", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "cc", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "det", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "amod", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "conj:and", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "mark", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "acl", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "det", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "amod", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "compound", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "dobj", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "case", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 14, 
+                            "type": "nmod:of", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "aux", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "auxpass", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "mark", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 19, 
+                            "type": "advcl", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 20, 
+                            "type": "det:predet", 
+                            "governor": 21
+                        }, 
+                        {
+                            "dependent": 21, 
+                            "type": "dobj", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 22, 
+                            "type": "acl", 
+                            "governor": 21
+                        }, 
+                        {
+                            "dependent": 23, 
+                            "type": "dobj", 
+                            "governor": 22
+                        }, 
+                        {
+                            "dependent": 24, 
+                            "type": "case", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 25, 
+                            "type": "nmod:of", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 26, 
+                            "type": "cc", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 27, 
+                            "type": "conj:and", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 28, 
+                            "type": "case", 
+                            "governor": 30
+                        }, 
+                        {
+                            "dependent": 29, 
+                            "type": "amod", 
+                            "governor": 30
+                        }, 
+                        {
+                            "dependent": 30, 
+                            "type": "nmod:of", 
+                            "governor": 25
+                        }
+                    ], 
+                    "collapsed-ccprocessed-dependencies": [
+                        {
+                            "dependent": 17, 
+                            "type": "root", 
+                            "governor": 0
+                        }, 
+                        {
+                            "dependent": 1, 
+                            "type": "det", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 2, 
+                            "type": "nsubjpass", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 3, 
+                            "type": "cc", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 4, 
+                            "type": "det", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 5, 
+                            "type": "amod", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "conj:and", 
+                            "governor": 2
+                        }, 
+                        {
+                            "dependent": 6, 
+                            "type": "nsubjpass", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 7, 
+                            "type": "mark", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 8, 
+                            "type": "acl", 
+                            "governor": 6
+                        }, 
+                        {
+                            "dependent": 9, 
+                            "type": "det", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 10, 
+                            "type": "amod", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 11, 
+                            "type": "compound", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 12, 
+                            "type": "dobj", 
+                            "governor": 8
+                        }, 
+                        {
+                            "dependent": 13, 
+                            "type": "case", 
+                            "governor": 14
+                        }, 
+                        {
+                            "dependent": 14, 
+                            "type": "nmod:of", 
+                            "governor": 12
+                        }, 
+                        {
+                            "dependent": 15, 
+                            "type": "aux", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 16, 
+                            "type": "auxpass", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 18, 
+                            "type": "mark", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 19, 
+                            "type": "advcl", 
+                            "governor": 17
+                        }, 
+                        {
+                            "dependent": 20, 
+                            "type": "det:predet", 
+                            "governor": 21
+                        }, 
+                        {
+                            "dependent": 21, 
+                            "type": "dobj", 
+                            "governor": 19
+                        }, 
+                        {
+                            "dependent": 22, 
+                            "type": "acl", 
+                            "governor": 21
+                        }, 
+                        {
+                            "dependent": 23, 
+                            "type": "dobj", 
+                            "governor": 22
+                        }, 
+                        {
+                            "dependent": 24, 
+                            "type": "case", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 25, 
+                            "type": "nmod:of", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 26, 
+                            "type": "cc", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 27, 
+                            "type": "nmod:of", 
+                            "governor": 23
+                        }, 
+                        {
+                            "dependent": 27, 
+                            "type": "conj:and", 
+                            "governor": 25
+                        }, 
+                        {
+                            "dependent": 28, 
+                            "type": "case", 
+                            "governor": 30
+                        }, 
+                        {
+                            "dependent": 29, 
+                            "type": "amod", 
+                            "governor": 30
+                        }, 
+                        {
+                            "dependent": 30, 
+                            "type": "nmod:of", 
+                            "governor": 25
+                        }
+                    ], 
+                    "id": 4
+                }
+            ]
+        }, 
+        "normalized_data": {
+            "area_site": "6.230 qm", 
+            "description": "das ziel der neugestaltung besteht darin, die wahrnehmung der freien universit\u00e4t und den neubau der philologischen bibliothek im \u00f6ffentlichen stra\u00dfenraum wesentlich zu verbessern und eine ad\u00e4quate st\u00e4dtische situation herzustellen, welche die funktion des hauptzuganges eines der wichtigsten geb\u00e4ude der fu betont. auftraggeber freie universit\u00e4t berlin referat bauplanung iii b2 bearbeitungszeit 2005-2006 bearbeitungsgebiet 6230qm baukosten 453.000 \u20ac", 
+            "title": "entrance area freie universit\u00e4t berlin", 
+            "possible_contacts": [
+                {
+                    "firms": [
+                        {
+                            "name": "Freie Universit\u00e4t Berlin Referat Bauplanung III B2"
+                        }
+                    ], 
+                    "role": "Client"
+                }, 
+                {
+                    "firms": [
+                        {
+                            "name": "H\u00e4fner / Jimenez"
+                        }
+                    ], 
+                    "role": "Landscape Architect"
+                }, 
+                {
+                    "firms": [
+                        {
+                            "name": "H\u00e4fner / Jimenez"
+                        }
+                    ], 
+                    "role": "Landscape Architect"
+                }
+            ], 
+            "source_url": "http://www.world-architects.com/en/projects/23442_entrance_area_freie_universitaet_berlin", 
+            "location": {
+                "city": "Berlin", 
+                "country": "Germany", 
+                "coordinates": {
+                    "lat": 52.52000659999999, 
+                    "lng": 13.404954
+                }, 
+                "location_precision_code": 8, 
+                "location_precision": "approximate", 
+                "country_code": "DE", 
+                "address": "Berlin, Germany"
+            }, 
+            "images": [
+                {
+                    "image_links": []
+                }
+            ]
+        }, 
+        "hide_fields": [
+            "Size", 
+            "description_text", 
+            "project_link", 
+            "Client", 
+            "Landscape Architect", 
+            "Landscape Architect", 
+            "image_links", 
+            "project_title", 
+            "Location"
+        ]
+    }
+
+]
